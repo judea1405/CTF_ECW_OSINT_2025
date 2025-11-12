@@ -23,4 +23,4 @@ Submit the **Plus Code** (global code) of the location derived from the photo: `
 
 ## Provided Files
 
-![alt text](signimage.png)
+![alt text](signimage.jpg)
