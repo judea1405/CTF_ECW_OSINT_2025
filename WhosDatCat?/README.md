@@ -11,6 +11,16 @@
 
 ## Challenge Prompt
 > **What is my cat’s name?**  
-Find the cat’s first name using only open-source information. Submit the flag as `ECW{Name}`
+Find the cat’s first name using only open-source information and the provided artifacts. Submit the flag as `ECW{Name}` (the part inside braces is case-sensitive).
 
 ---
+
+## Provided Files
+A downloadable archive is supplied:
+
+- **`astek_WhosDatCat.zip`** → contains a **Charchive** folder with:
+  - `image_1.*` (image)
+  - `image_2.*` (image)
+  - `note.txt` (text)
+
+You must use the contents of this archive to complete the challenge.
