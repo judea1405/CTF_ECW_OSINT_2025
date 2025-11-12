@@ -6,8 +6,11 @@
 
 1. **Extract clues from the sign**
    - Sticker: **“Monkey Run Morocco”** → country hint.
+
 ![alt text](sticker.png)
+
    - Emblem: Moroccan **Ministry of Logistics/Equipment** logo → confirms **Morocco**.
+
 ![alt text](sticker1.png)
 
 2. **Reverse image search, scoped to Morocco**
