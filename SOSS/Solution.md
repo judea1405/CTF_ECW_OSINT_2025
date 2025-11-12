@@ -1,6 +1,5 @@
-# Who’s That Spy? — solution
+# SOSS — solution
 
-## TL;DR
 Pivot from the movie-friendly handle to **Letterboxd → Instagram → GitHub**, grab a photo, read its EXIF GPS, convert to the required format, submit.
 
 ---
