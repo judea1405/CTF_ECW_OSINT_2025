@@ -9,8 +9,8 @@
 ---
 
 ## Challenge Prompt
-We’re tracking an enemy agent who appears to have fled **outside France**.  
-A **single leaked photo** is available—use it to determine the **approximate location**.
+We are on the trace of an enemy agent. He appears to have escaped to a country that does not seem to be France.
+A photo has been leaked, locate it and give us its approximate location.
 
 ---
 
