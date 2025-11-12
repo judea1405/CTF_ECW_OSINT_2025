@@ -1,4 +1,4 @@
-# Jobstacle_II (OSINT/SOCMINT) — ECW CTF 2025
+# Jobstacle_II (OSINT) — ECW CTF 2025
 
 > **Difficulty:** Hard  
 > **Points:** 460  
