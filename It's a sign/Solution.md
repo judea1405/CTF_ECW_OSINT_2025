@@ -20,6 +20,8 @@
 3. **Corroborate with additional imagery**
    - Another photo indicates the sign sits at a **bend** with **powerlines** nearby.
 
+![alt text](powerlines.png)
+
 4. **Pinpoint on maps**
    - Scan **Route 317** (Zagora area) for the **bend + powerlines** configuration.
    - Match viewpoint and roadside context → drop a pin at the sign’s location.
