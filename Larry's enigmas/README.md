@@ -2,6 +2,8 @@
 
 > **Difficulty:** Medium  
 > **Category:** OSINT  
+> **Points:** 191 
+> **Solves:** 133  
 > **Author:** ASTEK
 
 ---
