@@ -26,7 +26,5 @@ Your job is to recover Larry’s approximate location from the chip data and the
 ---
 
 ## Provided Files
-_No explicit files are listed here._  
-Expect artifacts such as:
-- A **photo/screenshot** of a reader (e.g., Flipper Zero) showing **ISO FDX-B** tag data: country code + 15-digit ID.
-- A note or breadcrumb pointing to an **official registry** (e.g., by country).
+  - `LarrysEnigma.*` (image)
+  - `message.txt` (text)
