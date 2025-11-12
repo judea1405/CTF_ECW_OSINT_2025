@@ -17,4 +17,4 @@
 3. The result shows the species (**cat**) and the animal’s **given name**.
 
 ## Flag
-`FLAG{NAME}`
+`FLAG{Arthur}`
