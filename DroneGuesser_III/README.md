@@ -16,6 +16,14 @@ Your friend recorded a crash of his FPV drone into a **tree** and even left a **
 ---
 
 ## Flag Format
+`ECW{.*, .}`
+- Submit **latitude, longitude** in **decimal degrees**, separated by a comma and a space.
+- **Round to 3 decimal places** (standard rounding).
+- Include the minus sign if applicable (W/S hemispheres).
+
+---
+
+## Provided Files
 `profile_picture.* (image)`
 
 ## Submission
