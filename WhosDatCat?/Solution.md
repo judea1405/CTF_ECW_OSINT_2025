@@ -1,4 +1,4 @@
-# Whosdatcat? — solution
+# WhosDatCat? — solution
 
 ## Evidence (from image 1)
 - Device: Flipper Zero
