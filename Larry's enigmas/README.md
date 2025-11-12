@@ -1,10 +1,10 @@
 # PetBeacon (OSINT) — ECW CTF 2025
 
-> **Difficulty:** Medium  
-> **Category:** OSINT  
-> **Points:** 191 
-> **Solves:** 133 
-> **Author:** ASTEK  
+**Difficulty:** Medium  
+**Points:** 191  
+**Solves:** 133  
+**Category:** OSINT  
+**Author:** ASTEK
 ---
 
 ## Challenge Prompt
