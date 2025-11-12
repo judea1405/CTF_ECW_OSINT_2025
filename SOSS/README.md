@@ -1,4 +1,4 @@
-# Who’s That Spy? (OSINT) — ECW CTF 2025
+# SOSS (OSINT) — ECW CTF 2025
 
 > **Difficulty:** Medium  
 > **Points:** 289  
