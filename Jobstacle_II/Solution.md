@@ -47,12 +47,12 @@ Focus search on pharmacies **between those points**. Each verse yields one numbe
 2) **Feb 2025** — “old bourgeois boulevard… watch the temperature”  
    **Pharmacie Léon Bourgeois** (Bd Léon Bourgeois), Street View **Feb 2025**, sign shows **10 °C** → **10**.
 
-![alt text](magesJobstacle_II/10c.png)
+![alt text](imagesJobstacle_II/10c.png)
 
 3) **[erased] 2023** — tech repair shop whose **name puts many at ease**  
    Repair shop **Mobile35** (intended: **PC35**) covered in **2023** → **35**.
 
-![alt text](/imagesJobstacle_II/mobile35.png)
+![alt text](imagesJobstacle_II/mobile35.png)
 
 4) **Mar 2022** — media shop with **yellow storefront**, “truth lies somewhere inside”  
    **O’CD** storefront (Street View **Mar 2022**) shows **2** inside → **2**.
