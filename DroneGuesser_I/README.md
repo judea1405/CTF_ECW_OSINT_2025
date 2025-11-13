@@ -28,7 +28,7 @@ Find:
 ---
 
 ## Provided Files
-_No additional files are provided for this challenge._  
-Use only **open-source intelligence (OSINT)**.
+
+![alt text](provided_files/unknown_drone.png)
 
 ---
