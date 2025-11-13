@@ -34,4 +34,4 @@ Both will be accepted.
 ---
 
 ## Provided Files
-`profile_picture.* (image)`
+![alt text](provided_files/NotLarry.png)
