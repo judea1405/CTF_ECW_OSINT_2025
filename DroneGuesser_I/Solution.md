@@ -7,7 +7,7 @@
 1. **Identify the brand**
    - Zoom on the drone logo in the footage: **“DJI”** (well-known drone manufacturer).
 
-![alt text](zoom.png)
+![alt text](imagesDroneGuesser_I/zoom.png)
 
 2. **Get the company ID (France)**
    - Search DJI on the French registry aggregator **Pappers**.  
