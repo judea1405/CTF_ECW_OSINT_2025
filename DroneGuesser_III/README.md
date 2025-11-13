@@ -24,7 +24,7 @@ Your friend recorded a crash of his FPV drone into a **tree** and even left a **
 ---
 
 ## Provided Files
-`profile_picture.* (image)`
+![alt text](provided_files/NotLarry.png)
 
 ---
 
