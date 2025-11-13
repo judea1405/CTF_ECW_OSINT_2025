@@ -1,12 +1,5 @@
 # PetBeacon — solution
 
-## TL;DR
-Chip ID `123412341234123` → lookup on **PetMaxx** → 3 registry matches (Ukraine, Germany, Netherlands).  
-Larry’s message says *“I currently live with the dog”* → follow the **Dutch (dog)** record.  
-Dutch registry gives address **Cypresbaan 43, Capelle aan den IJssel, 2908LT, NL** → city **Rotterdam area**.  
-Nearest bus stop: **Vlierbaan**, served by **bus 190**.  
-Flag: `ECW{Rotterdam_190_Vlierbaan}`
-
 ---
 
 ## Steps
