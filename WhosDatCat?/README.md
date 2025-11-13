@@ -19,8 +19,9 @@ Find the cat’s first name using only open-source information and the provided 
 A downloadable archive is supplied:
 
 - **`astek_WhosDatCat.zip`** → contains a **Charchive** folder with:
-  - `image_1.*` (image)
-  - `image_2.*` (image)
-  - `note.txt` (text)
+![alt text](Charchive/cat_1.png)
+![alt text](Charchive/cat_2.png)
+```Pspsps doesn't work.
+How would you call this cat ?```
 
 You must use the contents of this archive to complete the challenge.

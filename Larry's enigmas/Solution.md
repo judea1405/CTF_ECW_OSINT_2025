@@ -1,4 +1,4 @@
-# PetBeacon — solution
+# Larry's Enigmas — solution
 
 ---
 

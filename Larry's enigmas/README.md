@@ -1,4 +1,4 @@
-# PetBeacon (OSINT) — ECW CTF 2025
+# Larry's Enigmas (OSINT) — ECW CTF 2025
 
 **Difficulty:** Medium  
 **Points:** 191  

@@ -36,7 +36,7 @@
      - **RPM at Max Thrust**: `31802`
 
 6. **Assemble the flag**
-   - `MOTORType` uses the product naming w/o spaces: **`2207V21960KV`**  
+   - `MOTORType` uses the product naming without spaces: **`2207V21960KV`**  
    - Final: `ECW{2207V21960KV_1702.7_31802}`
 
 ---
