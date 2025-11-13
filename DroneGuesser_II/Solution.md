@@ -6,12 +6,16 @@
 
 1. **Find the pilot’s socials**
    - Reverse image search the profile picture → locate the **YouTube channel**.
+
 ![alt text](imagesDroneGuesser_II/youtubechannel.png)
+
    - Channel content is centered on **FPV drones**.
 
 2. **Locate the relevant footage**
    - Video title: **我的馬達咧？I lost my motor!!**
+
 ![alt text](imagesDroneGuesser_II/video.png)
+
    - Around **5:48**, crash aftermath shows the drone and **close-ups of the motors**.
 
 3. **Read motor clues from frames**
