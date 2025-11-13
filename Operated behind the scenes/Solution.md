@@ -10,6 +10,8 @@ We begin with the provided Ethereum address: `0x7bF443423C4a6171Be6291eD1CD33C9A
 
 Checking **Etherscan** reveals nothing useful, so we pivot to **Chain-Abuse**, given the ransomware-themed context.
 
+![alt text](imagesOperatedBehindTheScenes/chainabuse.png)
+
 Chain-Abuse **finds a match** for malicious activity, referencing a domain:
 
 - `www.ecwmoney.fr`
@@ -57,6 +59,8 @@ From it, we extract:
 - Year inferred from context: **2025**
 
 The event also contains a **photo**.
+
+![alt text](imagesOperatedBehindTheScenes/location.png)
 
 ---
 

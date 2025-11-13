@@ -11,25 +11,25 @@ Pivot from the movie-friendly handle to **Letterboxd → Instagram → GitHub**,
    - Go to **Letterboxd** and try the handle:
      - https://letterboxd.com/ecwthief
 
-![alt text](letterbox.png)
+![alt text](imagesSOSS/letterbox.png)
 
 2. **Extract the pivot**
    - In a review of *OSS 117: Cairo, Nest of Spies (2006)* (★ ★ ★ ★ ★ – Watched **20 Jun 2025**), the text says:
      > *“…If you want to follow me, just find me: **labath_d_hubert** …”*
    - New username to pivot: **`labath_d_hubert`**.
 
-![alt text](letterboxreview.png)
+![alt text](imagesSOSS/letterboxreview.png)
 
 3. **Fan-out on socials**
    - Instagram: find **`labath_d_hubert`** (not directly solvable from there).
 
-![alt text](instagram.png)
+![alt text](imagesSOSS/instagram.png)
 
    - GitHub: find **`labath_d_hubert`** with a repo **`meet_me_using_the_matrix`**.
      - Repo contains a Python script (visual “matrix” effect) **and a picture**.
 
-![alt text](github.png)
-![alt text](picture.png)
+![alt text](imagesSOSS/github.png)
+![alt text](imagesSOSS/picture.png)
 
 4. **Pull the artifact & read EXIF**
    - Download the **picture** from the repo.

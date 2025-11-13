@@ -22,8 +22,12 @@
    - The Dutch registry lists:  
      **Cypresbaan 43, Capelle aan den IJssel, 2908LT, Netherlands**
 
+![alt text](imagesLarrysEnigmas/location.png)
+
 5. **Identify the city**
    - Capelle aan den IJssel is part of the **Rotterdam metropolitan area** → `City = Rotterdam`.
+
+![alt text](imagesLarrysEnigmas/Rotterdam.png)
 
 6. **Find the nearest bus stop**
    - Check public transport data for the address.
