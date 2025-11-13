@@ -26,5 +26,5 @@ Your job is to recover Larry’s approximate location from the chip data and the
 ---
 
 ## Provided Files
-  - `LarrysEnigma.*` (image)
-  - `message.txt` (text)
+![alt text](provided_files/message.txt)
+![alt text](provided_files/LarrysEnigma.png)
