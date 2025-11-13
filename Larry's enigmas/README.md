@@ -26,5 +26,21 @@ Your job is to recover Larry’s approximate location from the chip data and the
 ---
 
 ## Provided Files
-![message.txt](provided_files/message.txt)
+``` 
+My friend,
+
+I have to keep my location secret.
+Hence, I won't give you my location in clear.
+Cypher algorythms could be cracked by the quantum or something 
+(I fear because I do not understand fully)
+
+I am sure you, out of everybody, will be able to understand me.
+
+I currently live with the dog.
+
+We have a lot to discuss in person.
+Sincerely yours,
+See you soon,
+Larry
+```
 ![alt text](provided_files/LarrysEnigma.png)
